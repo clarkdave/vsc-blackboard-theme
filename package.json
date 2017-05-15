@@ -1,0 +1,22 @@
+{
+    "name": "blackboard",
+    "displayName": "Blackboard",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "clarkdave",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blackboard",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blackboard-color-theme.json"
+            }
+        ]
+    }
+}

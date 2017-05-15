@@ -1,0 +1,1 @@
+Visual Studio Code combines the UI and colour scheme into a single theme, so this merges my favourite [Blackboard](http://colorsublime.com/?q=blackboard) colour scheme with the UI colours from the [Dracula](https://draculatheme.com/visual-studio-code/) theme
